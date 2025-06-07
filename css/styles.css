@@ -1,0 +1,19 @@
+
+body {
+  font-family: sans-serif;
+  background: #111;
+  color: #eee;
+  padding: 1rem;
+}
+header, section, footer {
+  max-width: 800px;
+  margin: auto;
+  padding: 1rem;
+}
+h1 {
+  font-size: 1.8rem;
+}
+a {
+  color: #ff69b4;
+  text-decoration: none;
+}
